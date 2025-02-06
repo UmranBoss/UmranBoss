@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 ### Languages & Tools
 <div>
 <img src="images/java%20(1).png" alt="Java" width="30"/>
