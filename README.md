@@ -1,7 +1,7 @@
 ![Header](./images/github-header-image%20(4).png)
 
 ### Languages & Tools
-<div>
+<div style="text-align: center;>
 <img src="images/java%20(1).png" alt="Java" width="30"/>
 <img src="images/mysql (1).png" alt="MySQL" width="30"/>
 <img src="images/IntelliJ_IDEA_Icon.svg.png" alt="Java" width="30"/>
