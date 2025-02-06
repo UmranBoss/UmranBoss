@@ -1,4 +1,4 @@
-![Header](./images/github-header-image(3).png)
+![Header](./images/github-header-image%20(3).png)
 
 ### Languages & Tools
 <div>
